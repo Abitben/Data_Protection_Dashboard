@@ -1,0 +1,28 @@
+version: 2
+
+models:
+  - name: sanctions_stats
+    schema: sanctions
+    columns:
+      - name: annee
+        tests:
+          - unique
+          - not_null
+      - name: amende_administrative_non_publique
+        tests:
+            - not_null
+      - name: amende_administrative_publique
+        tests:
+            - not_null
+      - name: total_autres_mesures_non_pub
+        tests:
+            - not_null
+      - name: total_autres_mesures_pub
+        tests:
+            - not_null
+      - name: relaxesnonlieu
+        tests:
+            - not_null
+      - name: total
+        tests:
+            - not_null

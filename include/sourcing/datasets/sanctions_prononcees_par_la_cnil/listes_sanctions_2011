@@ -1,0 +1,9 @@
+unnamed:_0;date;nom_ou_type_dorganisme;theme;manquement_principal;decision_adoptee;lien_vers_la_decision;year
+0;11/12/2011;DISTRIBUTEUR D’EAU / ASAINISSEMENT;Gestion clients;Commentaires excessifs, données de santé et d'infractions;Avertissement non public;No link;2011
+1;01/12/2011;FOURNISSEUR D’ACCES INTERNET, TV;Internet;Défaut de sécurité et confidentialité;Avertissement non public;No link;2011
+2;18/11/2011;HEBERGEUR DE DONNEES DE SANTE;Santé;Collecte illicite, défaut de sécurité et confidentialité;Avertissement non public;No link;2011
+3;06/10/2011;SOCIETE DE GESTION IMMOBILIERE;Immobilier;Commentaires excessifs, données de santé et opinions religieuses;Avertissement non public;No link;2011
+4;06/10/2011;TRANSACTION ET GESTION DE BIENS IMMOBILIERS;Immobilier;Formalités préalables, défaut de réponse;Avertissement non public;No link;2011
+5;21/09/2011;ANNUAIRE;aspiration de données sur des réseaux sociaux;Collecte déloyale, défaut de mise à jour, non respect des droits des personnes;Avertissement public;http://www.legifrance.gouv.fr/affichCnil.do?oldAction=rechExpCnil&id=CNILTEXT000024583206&fastReqId=1616841397&fastPos=3;2011
+6;21/07/2011;PARTI POLITIQUE;Elections;Sécurité, confidentialité;Avertissement + procédure d'urgence;No link;2011
+7;30/06/2011;SOCIETE DE CONSTRUCTION;Immobilier;Traitement illicite de données;Avertissement non public;No link;2011

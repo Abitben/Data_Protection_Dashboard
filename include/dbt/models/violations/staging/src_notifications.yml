@@ -1,0 +1,6 @@
+sources:
+- database: cnil-392113
+  name: notifications
+  schema: notifications_a_la_cnil_de_violations_de_donnees_a_caractere_personnel
+  tables:
+  - name: opencnil_violationsdcpnotifiees_20230331

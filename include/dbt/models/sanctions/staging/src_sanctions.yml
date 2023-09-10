@@ -1,0 +1,26 @@
+sources:
+- name: sanctions
+  database: cnil-392113
+  schema: sanctions_prononcees_par_la_cnil
+  tables:
+  - name: open_cnil_ventilation_sanctions_depuis_2014_vd
+  - name: listes_sanctions_2018
+  - name: listes_sanctions_2020
+  - name: listes_sanctions_2016
+  - name: listes_sanctions_2011
+  - name: listes_sanctions_2017
+  - name: listes_sanctions_2021
+  - name: listes_sanctions_2019
+  - name: opencnil_sanctions_depuis_2019_maj_aout_2022
+  - name: listes_sanctions_2023
+  - name: listes_sanctions_2012
+  - name: listes_sanctions_2015
+  - name: listes_sanctions_2014
+  - name: listes_sanctions_2013
+  - name: listes_sanctions_2022
+
+- name: sanctions_eu
+  schema: sanctions_eu
+  database: cnil-392113
+  tables:
+  - name: sanctions_all_eu

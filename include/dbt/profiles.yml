@@ -1,0 +1,40 @@
+dbt_cnil:
+  target: dev
+
+  outputs:
+    test:
+      type: bigquery
+      method: service-account
+      keyfile: /usr/local/airflow/include/gcp/service_account.json
+      project: cnil-392113
+      dataset: test
+      threads: 1
+      timeout_seconds: 300
+      location: EU
+      priority: interactive
+  
+    dev:
+      type: bigquery
+      method: service-account
+      keyfile: /usr/local/airflow/include/gcp/service_account.json
+      project: cnil-392113
+      dataset: dev
+      threads: 1
+      timeout_seconds: 300
+      location: EU
+      priority: interactive
+      gcs_bucket: cnil-392113
+      dataproc_cluster_name: dbt-cnil-392113
+      dataproc_region: europe-west1
+
+
+    prod:
+      type: bigquery
+      method: service-account
+      keyfile: /usr/local/airflow/include/gcp/service_account.json
+      project: cnil-392113
+      dataset: prod
+      threads: 1
+      timeout_seconds: 300
+      location: EU
+      priority: interactive

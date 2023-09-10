@@ -1,0 +1,576 @@
+unnamed:_0;annee;type_de_controle;organismes;lieu_de_controle;departement;secteur_dactivite__de_lorganisme
+0;2015;loi 78;BOURSE DE L'IMMOBILIER;Bordeaux;33;Immobilier
+1;2015;loi 78;MGI-TWC SAS ;Les Fins;25;Commerce
+2;2015;loi 78;SPORTSDIRECT.COM FRANCE ;Fresnes;94;Commerce
+3;2015;loi 78;AUTOLIB' ;Vaucresson;92;Transport
+4;2015;loi 78;ASSURLAND.COM ;Paris;75;Commerce
+5;2015;loi 78;"CARREFOUR BANQUE 
+         ";Courcouronnes;91;Banques
+6;2015;loi 78;"EUROPE RESEAUX -
+1789.FR ";Paris;75;Commerce
+7;2015;loi 78;RENTABILIWEB MARKETING ;Levallois Perret;92;Commerce
+8;2015;loi 78;RENTABILIWEB MARKETING ;Levallois Perret;92;Commerce
+9;2015;loi 78;"MINISTÈRE DES FINANCES  ET DES COMPTES PUBLICS - 
+SITE HÉBERGEMENT ";Bussy saint Georges;77;Banques
+10;2015;loi 78;"MINISTÈRE DES FINANCES  ET DES COMPTES PUBLICS - 
+DIRECTION GÉNÉRALE DES FINANCES PUBLIQUES ";Paris;75;Banques
+11;2015;loi 78;"MINISTÈRE DES FINANCES  ET DES COMPTES PUBLICS - 
+DIRECTION NATIONALE D'ENQUÊTES FISCALES ";Pantin;93;Banques
+12;2015;loi 78;"MINISTÈRE DES FINANCES  ET DES COMPTES PUBLICS - 
+ETABLISSEMENT DE SERVICES INFORMATIQUES DE LILLE MEUREIN ";Lille;59;Banques
+13;2015;loi 78;"MINISTÈRE DES FINANCES  ET DES COMPTES PUBLICS - 
+ETABLISSEMENT DE SERVICES INFORMATIQUES DE STRASBOURG GÉNÉRAL PICQUART ";Strasbourg;67;Banques
+14;2015;loi 78;MINISTÈRE DES FINANCES  ET DES COMPTES PUBLICS ;Noisy le Grand;93;Banques
+15;2015;loi 78;MINISTÈRE DES FINANCES  ET DES COMPTES PUBLICS;Charleville Mezières;8;Banques
+16;2015;loi 78;MINISTÈRE DES FINANCES ET DES COMPTES PUBLICS  (BRIGADE DE CONTRÔLE ET DE RECHERCHES);Vanves;92;Banques
+17;2015;loi 78;PRICEMINISTER ;Paris;75;Commerce
+18;2015;loi 78;EFFICIENCY NETWORK;Paris;75;Commerce
+19;2015;loi 78;REGIE COMMUNAUTAIRE D'EXPLOITATION DE PARCS DE STATIONNEMENT ;Bordeaux;33;Transport
+20;2015;loi 78;SOCIÉTÉ COURTANET;Paris;75;Assurance
+21;2015;loi 78;SECUVAD ;Nanterre;92;Banques
+22;2015;loi 78;OPTICAL CENTER;Paris;75;Commerce
+23;2015;loi 78;OPTICAL CENTER ;Paris;75;Commerce
+24;2015;loi 78;R2J COMPANY ;Argenteuil;95;Commerce
+25;2015;loi 78;"SANTÉ MUTUELLE SERVICES
+";Rilleux la Rape;69;Santé/ social
+26;2015;loi 78;BNP PARIBAS;Paris;75;Banques
+27;2015;loi 78;BNP PARIBAS;Paris;75;Banques
+28;2015;loi 78;CARREFOUR SYSTÈMES D'INFORMATION FRANCE (CSIF);Lyon;69;Commerce
+29;2015;loi 78;CELSIUS ONLINE;Paris;75;Commerce
+30;2015;loi 78;BANQUE DE FRANCE ;Poitiers;86;Banques
+31;2015;loi 78;BANQUE DE FRANCE ;Poitiers;86;Banques
+32;2015;loi 78;ASSOCIATION CONTRIBUABLES ASSOCIÉS ;Paris;75;Commerce
+33;2015;loi 78;PHOENIX CORP ;Paris;75;Commerce
+34;2015;loi 78;"MINISTÈRE DE LA JUSTICE 
+- FIJAISV";Paris;75;Police/ justice/ sécurité
+35;2015;loi 78;"MINISTÈRE DE LA JUSTICE 
+- FIJAISV";Paris;75;Police/ justice/ sécurité
+36;2015;loi 78;"MINISTÈRE DE LA JUSTICE 
+- FIJAISV";Paris;75;Police/ justice/ sécurité
+37;2015;loi 78;"MINISTÈRE DE LA JUSTICE 
+- FIJAISV";Paris;75;Police/ justice/ sécurité
+38;2015;loi 78;"MINISTÈRE DE LA JUSTICE
+ - FIJAISV";Paris;75;Police/ justice/ sécurité
+39;2015;loi 78;"MINISTÈRE DE LA JUSTICE
+ - FIJAISV";Paris;75;Police/ justice/ sécurité
+40;2015;loi 78;"MINISTÈRE DE LA JUSTICE 
+- FIJAISV";Paris;75;Police/ justice/ sécurité
+41;2015;loi 78;"MINISTÈRE DE LA JUSTICE 
+- FIJAISV";Paris;75;Police/ justice/ sécurité
+42;2015;loi 78;"MINISTÈRE DE LA JUSTICE
+ - FIJAISV";Paris;75;Police/ justice/ sécurité
+43;2015;loi 78;"MINISTÈRE DE LA JUSTICE
+ - FIJAISV";Paris;75;Police/ justice/ sécurité
+44;2015;loi 78;MINISTÈRE DE LA JUSTICE;Grenoble;38;Police/ justice/ sécurité
+45;2015;loi 78;"MINISTÈRE DE LA JUSTICE -
+PRÉFECTURE DE L'ISÈRE";Grenoble;38;Police/ justice/ sécurité
+46;2015;loi 78;"MINISTÈRE DE LA JUSTICE -
+CENTRE DE DÉTENTION DE TARASCON 
+";Tarascon;13;Police/ justice/ sécurité
+47;2015;loi 78;"MINISTÈRE DE LA JUSTICE -
+COMMISSARIAT DE POLICE D'ARLES 
+";Arles;13;Police/ justice/ sécurité
+48;2015;loi 78;"MINISTÈRE DE LA JUSTICE -
+PRÉFECTURE DES HAUTS DE SEINE
+";Nanterre;92;Police/ justice/ sécurité
+49;2015;loi 78;"MINISTÈRE DE LA JUSTICE -
+GROUPEMENT DE GENDARMERIE DE LA DORDOGNE";Périgueux;24;Police/ justice/ sécurité
+50;2015;loi 78;"MINISTÈRE DE LA JUSTICE -
+PRÉFECTURE DE LA DORDOGNE";Périgueux;24;Police/ justice/ sécurité
+51;2015;loi 78;"MINISTÈRE DE LA JUSTICE -
+COUR D'APPEL DE PARIS ";Paris;75;Police/ justice/ sécurité
+52;2015;loi 78;"MINISTÈRE DE LA JUSTICE -
+TGI DE PARIS ";Paris;75;Police/ justice/ sécurité
+53;2015;loi 78;"MINISTÈRE DE LA JUSTICE -
+DIRECTION DES SERVICES DÉPARTEMENTAUX DE L'EDUCATION NATIONALE DE LA MANCHE -
+";Saint Lo;50;Police/ justice/ sécurité
+54;2015;loi 78;"MINISTÈRE DE LA JUSTICE -
+DIRECTION DÉPARTEMENTALE DE LA COHÉSION SOCIALE DE LA MANCHE
+";Saint Lo;50;Police/ justice/ sécurité
+55;2015;loi 78;"MINISTÈRE DE LA JUSTICE -
+TGI DE BOBIGNY  
+";Bobigny;93;Police/ justice/ sécurité
+56;2015;loi 78;"MINISTÈRE DE LA JUSTICE -
+DIRECTION INTERREGIONALE DE LA PROTECTION JUDICIAIRE DE LA JEUNESSE  ILE DE FRANCE ET OUTRE-MER";Paris;75;Police/ justice/ sécurité
+57;2015;loi 78;ARAMIS ;Arcueil;94;Commerce
+58;2015;loi 78;ARAMIS ;Arcueil;94;Commerce
+59;2015;loi 78;CLIC EVENTS;Paris;75;Commerce
+60;2015;loi 78;ADP (SUITE CONTRÔLE EN LIGNE VOTRE.CARTE.GRISE.COM);Brives Charensac;43;Commerce
+61;2015;loi 78;"F2F 
+";Roubaix;59;Santé/ social
+62;2015;loi 78;F2F;Paris;75;Santé/ social
+63;2015;loi 78;"DECATHLON FRANCE
+";Villeneuve d'Ascq;59;Commerce
+64;2015;loi 78;CWI DISTRIBUTION;Aix en Provence;13;Commerce
+65;2015;loi 78;HOTEL ALBE BASTILLE;Paris;75;Commerce
+66;2015;loi 78;DEVELOPPEMENT INDUSTRIALISATION ET PROMOTION DE TECHNOLOGIES AVANCEES (DIPTA);Aix en Provence;13;Commerce
+67;2015;loi 78;TELEVISION FRANCAISE 1;Boulogne Billancourt ;92;Télécommunications
+68;2015;loi 78;VIAPRESSE ;Paris;75;Commerce
+69;2015;loi 78;TRANSDEV IDF;Ecquevilly;78;Transport
+70;2015;loi 78;TRANSDEV IDF;Nanterre;92;Transport
+71;2015;loi 78;TRANSDEV IDF ;Lieusaint;77;Transport
+72;2015;loi 78;BRANDALLEY ;Paris;75;Commerce
+73;2015;loi 78;"FONCIA GROUPE 
+";Anthony;92;Immobilier
+74;2015;loi 78;"FONCIA GROUPE 
+";Anthony;92;Immobilier
+75;2015;loi 78;ONEY TECH;Croix;59;Commerce
+76;2015;loi 78;ONEY TECH;Croix;59;Commerce
+77;2015;loi 78;RESTO IN;Paris;75;Commerce
+78;2015;loi 78;SOCIETE COOPERATIVE GROUPEMENTS D'ACHATS DES CENTRES LECLERC ;Ivry sur Seine;94;Commerce
+79;2015;loi 78;TRAITEMENTS À FINALITÉ PUBLICITAIRE MIS EN ŒUVRE PAR OU POUR LE COMPTE DU GROUPE GOOGLE;Paris;75;Commerce
+80;2015;loi 78;B2S LE MANS ;Le Mans;72;Commerce
+81;2015;loi 78;HORYZON MEDIA (SOLOCAL GROUP) ;Issy les Moulineaux;92;Commerce
+82;2015;loi 78;ASSOCIATION WIKIMEDIA FRANCE;Paris;75;Télécommunications
+83;2015;loi 78;TRAITEMENTS GALERIES LAFAYETTE.COM ;Paris;75;Commerce
+84;2015;loi 78;CGI FRANCE ;Courbevoie;92;Télécommunications
+85;2015;loi 78;ABDSF ARVATO BUSINESS DEVELOPPEMENT SERVICES France;Vendin le Vieil;62;Commerce
+86;2015;loi 78;TRAITEMENTS MIS EN ŒUVRE PAR OU POUR LE COMPTE DE LA RÉGIE PUBLICITAIRE AD6MEDIA;Paris;75;Commerce
+87;2015;loi 78;"SOCIETÉ BOULANGER 
+";Fretin;59;Commerce
+88;2015;loi 78;AUDIENCE SQUARE ;Paris;75;Commerce
+89;2015;loi 78;"TRAITEMENTS MIS EN ŒUVRE PAR OU POUR LE COMPTE DE LA RÉGIE  
+PUBLICITAIRE PUBLICIDEES ";Levallois Perret;92;Commerce
+90;2015;loi 78;"TRAITEMENTS MIS EN ŒUVRE PAR OU POUR LE COMPTE DE LA RÉGIE  
+PUBLICITAIRE DU GROUPE ORANGE";Arcueil;94;Commerce
+91;2015;loi 78;VENTE-PRIVEE.COM ;Saint Denis;93;Commerce
+92;2015;loi 78;UNIVERSITÉ LYON 3 JEAN MOULIN ;Lyon;69;Education/culture/sport
+93;2015;loi 78;TRAITEMENT SITE INTERNET LABOUTIQUEOFFICIELLE.COM  ;Lyon;69;Commerce
+94;2015;loi 78;ONLINE SAS (ILIAD ENTREPRISE);Paris;75;Télécommunications
+95;2015;loi 78;JH GROUP ;Paris;75;Commerce
+96;2015;loi 78;SOCIETE NATEXO;Paris;75;Commerce
+97;2015;loi 78;CAISSE NATIONALE DE L'ASSURANCE MALADIE DES TRAVAILLEURS SALARIES (CNAMTS);Paris;75;Santé/ social
+98;2015;loi 78;CAISSE NATIONALE DE L'ASSURANCE MALADIE DES TRAVAILLEURS SALARIES (CNAMTS);Paris;75;Santé/ social
+99;2015;loi 78;TRAITEMENTS MIS EN ŒUVRE PAR OU POUR LE COMPTE DE LA REGIE PUBLICITAIRE LA PLACE MEDIA;Paris;75;Commerce
+100;2015;loi 78;TRAITEMENTS MIS EN ŒUVRE DANS LE CADRE GESTION ET EXPLOITATION SITE INTERNET ALLOCAB.COM ;Paris;75;Transport
+101;2015;loi 78;LEDBOX COMPANY ;Montreuil;93;Commerce
+102;2015;loi 78;LEDBOX COMPANY ;Montreuil;93;Commerce
+103;2015;loi 78;TRAITEMENTS MIS EN ŒUVRE PAR OU POUR LE COMPTE DE LA REGIE PUBLICITAIRE THE RUBICON PROJECT;Paris;75;Commerce
+104;2015;loi 78;"MINISTÈRE DE L'INTÉRIEUR (EUROPOL) - DIVISION DES RELATIONS INTERNATIONALES
+";Nanterre;92;Police/ justice/ sécurité
+105;2015;loi 78;NC NUMÉRICABLE ;Champs sur Marne;77;Télécommunications
+106;2015;loi 78;AIRBNB FRANCE;Paris;75;Commerce
+107;2015;loi 78;AIRBNB FRANCE;Paris;75;Commerce
+108;2015;loi 78;"UNION NATIONALE DES ASSOCIATIONS FRANCE ALZHEIMER ET MALADIES APPARENTÉES DITE ""FRANCE ALZHEIMER""";Paris;75;Santé/ social
+109;2015;loi 78;EDITIONS DU PUITS FLEURI ;Hericy;77;Commerce
+110;2015;loi 78;ACCES INFORMATIQUES ;Avon;77;Commerce
+111;2015;loi 78;PROFILS SENIORS ;SaintYon;91;Commerce
+112;2015;loi 78;COMITÉ FRANÇAIS POUR L'UNICEF;Paris;75;Santé/ social
+113;2015;loi 78;FONDATION POUR LA RECHERCHE MÉDICALE ;Paris;75;Santé/ social
+114;2015;loi 78;FACEBOOK;Paris;75;Commerce
+115;2015;loi 78;FACEBOOK;Paris;75;Commerce
+116;2015;loi 78;FACEBOOK;Paris;75;Commerce
+117;2015;loi 78;FACEBOOK;Paris;75;Commerce
+118;2015;loi 78;"DOSSIER PHARMACEUTIQUE - DOCAPOST BPO 
+";Charenton le Pont;94;Santé/ social
+119;2015;loi 78;"DOSSIER PHARMACEUTIQUE - PHARMACIE SAINT-HILAIRE
+";Nogent le Rotrou;28;Santé/ social
+120;2015;loi 78;DOSSIER PHARMACEUTIQUE- PHARMACIE DU FOUR-BONAPARTE;Paris;75;Santé/ social
+121;2015;loi 78;DOSSIER PHARMACEUTIQUE - PHARMACIE EDGAR QUINET;Paris;75;Santé/ social
+122;2015;loi 78;DOSSIER PHARMACEUTIQUE - PHARMACIE PORTE;Poey de Lescar;64;Santé/ social
+123;2015;loi 78;DOSSIER PHARMACEUTIQUE - DOCAPOST BPO ;Aix en Provence;13;Santé/ social
+124;2015;loi 78;DOSSIER PHARMACEUTIQUE - CONSEIL NATIONAL DE L'ORDRE DES PHARMACIENS;Paris;75;Santé/ social
+125;2015;loi 78;"MEDIAPOST 
+";Lyon;69;Commerce
+126;2015;loi 78;MEDIAPOST ;Domont;95;Commerce
+127;2015;loi 78;REGIE MIXTE DES TRANSPORTS TOULONNAIS;Toulon;83;Transport
+128;2015;loi 78;SOCIETE KEOLIS LYON;Lyon;69;Transport
+129;2015;loi 78;PERSONNE PHYSIQUE;Paris;75;Commerce
+130;2015;loi 78;HEPPNER SAS SOCIETE DE TRANSPORTS;Gonesse;95;Transport
+131;2015;loi 78;REGUS;Paris La Défense;92;Commerce
+132;2015;loi 78;MINISTÈRE DES AFFAIRES ETRANGÈRES ;Paris;75;Police/ justice/ sécurité
+133;2015;loi 78;TOP CHRONO ;Clichy;92;Transport
+134;2015;loi 78;SERGEANT EST;Nancy;54;Commerce
+135;2015;loi 78;"AUCHAN FRANCE 
+";Villeneuve d'Ascq;59;Commerce
+136;2015;loi 78;MAIRIE DE PARIS;Paris;75;Santé/ social
+137;2015;loi 78;MATCHING (MEDIAPRISM) ;Paris;75;Commerce
+138;2015;loi 78;CAISSE D'ALLOCATIONS FAMILIALES;Le Mans;72;Santé/ social
+139;2015;loi 78;MEDIA PRISME ;Paris;75;Commerce
+140;2015;loi 78;CLUB DE FOOTBALL LOSC LILLE ;Lille;59;Education/culture/sport
+141;2015;loi 78;TRAITEMENT VIADEO;Paris;75;Commerce
+142;2015;loi 78;GRDF;Paris;75;Commerce
+143;2015;loi 78;ATHLETIC CLUB AJACCIEN ACA FOOTBALL;Ajaccio;20;Education/culture/sport
+144;2015;loi 78;CAISSE DES ALLOCATIONS FAMILIALES DE PARIS;Paris;75;Santé/ social
+145;2015;loi 78;SOCIETE EXPENLI;Paris;75;Télécommunications
+146;2015;loi 78;CAISSE D'ALLOCATIONS FAMILIALES BEARN ET SOULE;Pau;64;Santé/ social
+147;2015;loi 78;TRAITEMENT PADAWAN FRANCE;Levallois Perret;92;Commerce
+148;2015;loi 78;TRAITEMENT PADAWAN FRANCE;Levallois Perret;92;Commerce
+149;2015;loi 78;TRAITEMENT PADAWAN FRANCE;Paris;75;Commerce
+150;2015;loi 78;BANQUE ACCORD ;Croix;59;Banques
+151;2015;loi 78;MINISTÈRE DE L'INTÉRIEUR;Paris;75;Police/ justice/ sécurité
+152;2015;loi 78;CARP DIEM;Paris;75;Commerce
+153;2015;loi 78;BANQUE DU GROUPE CASINO;Paris;75;Banques
+154;2015;loi 78;BOURSORAMA ;Boulogne Billancourt ;92;Banques
+155;2015;loi 78;CAISSE D'EPARGNE ET DE PRÉVOYANCE  NORMANDIE ;Bois Guillaume;76;Banques
+156;2015;loi 78; BNP PARIBAS PERSONAL FINANCE;Paris;75;Banques
+157;2015;loi 78;BANQUE CIC OUEST;Nantes;44;Banques
+158;2015;loi 78;COFIDIS ;Villeneuve d'Ascq;59;Banques
+159;2015;loi 78;CAISSE RÉGIONALE DE CRÉDIT AGRICOLE MUTUEL DU NORD EST;Reims;51;Banques
+160;2015;loi 78;FORTUNÉO;Puteaux;92;Banques
+161;2015;loi 78;GE MONEY BANK;Puteaux;92;Banques
+162;2015;loi 78;HSBC FRANCE;Paris;75;Banques
+163;2015;loi 78;LA BANQUE POSTALE ;Paris;75;Banques
+164;2015;loi 78;LASER COFINOGA;Paris;75;Banques
+165;2015;loi 78;SOCIETE GENERALE;Paris;75;Banques
+166;2015;loi 78;FRANCE TÉLEVISIONS;Paris;75;Commerce
+167;2015;loi 78; PÔLE EMPLOI;Paris;75;Santé/ social
+168;2015;loi 78;BOETIE PARTNERS PROPERTY MANAGEMENT ;Paris;75;Immobilier
+169;2015;loi 78;BANQUE DU GROUPE CASINO ;Paris;75;Banques
+170;2015;loi 78;EUROSAFE;Saint Grégoire;35;Santé/ social
+171;2015;loi 78;EUROSAFE ;Saint Grégoire;35;Santé/ social
+172;2015;loi 78;MEDI-SUP SCIENCES ;Paris;75;Education/culture/sport
+173;2015;loi 78;ACXIOM FRANCE ;Levallois Perret;92;Commerce
+174;2015;loi 78;SARL HOMCO (DENOMINATION COMMERCIALE AMAZONIA);Bordeaux;33;Commerce
+175;2015;loi 78;YATEDO FRANCE (TRAITEMENT) ;Paris;75;Commerce
+176;2015;loi 78;TRAITEMENTS CHAMBRE D'AGRICULTURE D'INDRE ET LOIRE  ;Chambray les Tours;37;Police/ justice/ sécurité
+177;2015;loi 78;TRAITEMENTS CENTRE D'OPÉRATIONS ET DE RENSEIGNEMENT GENDARMERIE INDRE ET LOIRE ;Tours;37;Police/ justice/ sécurité
+178;2015;loi 78;QWANT;Nice;6;Télécommunications
+179;2015;loi 78;TRAITEMENTS CHAMBRE DU COMMERCE ET DE L'INDUSTRIE DU JURA ;Lons le Saunier;39;Police/ justice/ sécurité
+180;2015;loi 78;TRAITEMENTS CENTRE D'OPÉRATIONS ET DE RENSEIGNEMENT DE LA GENDARMERIE DU JURA ;Lons le Saunier;39;Police/ justice/ sécurité
+181;2015;loi 78;AGENCE FRANÇAISE D'INVESTIGATION  DI GIANO ;Montpellier;34;Commerce
+182;2015;loi 78;HOPITAL COCHIN (AP-HP);Paris;75;Santé/ social
+183;2015;loi 78;TRAITEMENTS JDREAM.FR ;Paris;75;Commerce
+184;2015;loi 78;TRAITEMENTS JDREAM.FR;Paris;75;Commerce
+185;2015;loi 78;COMMUNE DE PALAVAS LES FLOTS;Palavas les flots;34;Collectivités locales
+186;2015;loi 78;SITE FEUJWORLD;Paris;75;Commerce
+187;2015;loi 78;HÔTEL LA RESIDENCE DU VIEUX PORT ;Marseille;13;Commerce
+188;2015;loi 78;BANQUE MARTIN MAUREL;Marseille;13;Banques
+189;2015;loi 78;BANQUE MARTIN MAUREL;Marseille;13;Banques
+190;2015;loi 78;C2 HÔTEL;Marseille;13;Commerce
+191;2015;loi 78;HÔTEL SAINT-LOUIS;Marseille;13;Commerce
+192;2015;loi 78;HÔTEL LUTETIA;Marseille;13;Commerce
+193;2015;loi 78;CNP ASSURANCES;Paris;75;Assurance
+194;2015;loi 78;CNAVTS;Tours;37;Santé/ social
+195;2015;loi 78;DERUES IMMOBILIER;Charenton le Pont;94;Immobilier
+196;2015;loi 78;FONDATION CAISSES D'EPARGNE POUR LA SOLIDARITÉ POUR LE SERVICE CORREZE TÉLÉASSISTANCE;Naves;19;Santé/ social
+197;2015;loi 78;SNCF (DIRECTION DES SYSTÈMES D'INFORMATION VOYAGEURS);Nantes;44;Transport
+198;2015;loi 78;AM DIFF;Paris;75;Commerce
+199;2015;loi 78;AM DIFF ;Paris;75;Commerce
+200;2015;loi 78;MAIL MARKETING;Paris;75;Commerce
+201;2015;loi 78;MAIL MARKETING ;Paris;75;Commerce
+202;2015;loi 78;ASSOCIATION HOSPITALIERE DE L'OUEST CLINIQUE SAINT-AUGUSTIN;Nantes;44;Santé/ social
+203;2015;loi 78;BUSINESS & DÉCISION CORPORATE SERVICE;Paris;75;Education/culture/sport
+204;2015;loi 78;"DYNAMIQUES SERVICES
+";Bry sur Marne;94;Commerce
+205;2015;loi 78;"CENTURY 21 FRANCE
+";Evry;91;Immobilier
+206;2015;loi 78; VACANCIEL;Valence;26;Commerce
+207;2015;loi 78;LABIO;Aix en Provence;13;Santé/ social
+208;2015;loi 78;INSTITUT DE RECHERCHES INTERNATIONALES SERVIER (IRIS);Suresnes;92;Santé/ social
+209;2015;loi 78;INSTITUT DE RECHERCHES INTERNATIONALES SERVIER (IRIS) ;Suresnes;92;Santé/ social
+210;2015;loi 78;"SKY SECURITY
+";Rungis;94;Commerce
+211;2015;loi 78;MINISTÈRE DE L'INTÉRIEUR ;Puteaux;92;Police/ justice/ sécurité
+212;2015;loi 78;MINISTÈRE DE L'INTÉRIEUR ;Paris;75;Police/ justice/ sécurité
+213;2015;loi 78;BNP PARIBAS ;Paris;75;Banques
+214;2015;loi 78;GROUPE CREDIT AGRICOLE;Paris;75;Banques
+215;2015;loi 78;GROUPE BPCE;Paris;75;Banques
+216;2015;loi 78;GROUPE CREDIT MUTUEL-CIC;Paris;75;Banques
+217;2015;loi 78;LA BANQUE POSTALE;Paris;75;Banques
+218;2015;loi 78;B FOR BANK;Paris;75;Banques
+219;2015;loi 78;AXA BANQUE;Paris;75;Banques
+220;2015;loi 78;MONABANQUE;Paris;75;Banques
+221;2015;loi 78;BOURSORAMA BANQUE;Paris;75;Banques
+222;2015;loi 78;ING DIRECT;Paris;75;Banques
+223;2015;loi 78;FORTUNEO;Paris;75;Banques
+224;2015;loi 78;HELLO BANK;Paris;75;Banques
+225;2015;loi 78;CREDIT COOPERATIF;Paris;75;Banques
+226;2015;loi 78;LCL;Paris;75;Banques
+227;2015;loi 78;HSBC;Paris;75;Banques
+228;2015;loi 78;CREDIT DU NORD;Paris;75;Banques
+229;2015;loi 78;"MSI LILLE
+";Lille;59;Immobilier
+230;2015;loi 78;"GROUPE CREDIT MUTUEL
+CREDIT INDUSTRIEL ET COMMERCIAL   
+";Strasbourg;67;Banques
+231;2015;loi 78;PIXEL COOKERS;Cergy Pontoise;95;Education/culture/sport
+232;2015;loi 78;"ECOLE ELEMENTAIRE BLED
+";Saint Maur des fossés;94;Education/culture/sport
+233;2015;loi 78;"DOUANES (MINISTERE DES FINANCES ET DES COMPTES PUBLICS)
+";Ivry sur Seine;94;Banques
+234;2015;loi 78;LYCEE MAXIMILIEN PERRET;Alfortville;94;Education/culture/sport
+235;2015;loi 78;"VALENTIN 
+";Alfortville;94;Commerce
+236;2015;loi 78;"INSTITUT NATIONAL DE LA PROPRIETE INDUSTRIELLE
+COURBEVOIE";Courbevoie;92;Santé/ social
+237;2015;loi 78;TECHNOLOGIA;Paris;75;Santé/ social
+238;2015;loi 78;"GR IMMOBILIER 
+";Le Kremlin Bicetre;94;Immobilier
+239;2015;loi 78;"C. RIVIERE SA
+";Bordeaux;33;Immobilier
+240;2015;loi 78;"DISTRICOM SALES AND MARKETING 
+";Asnières sur Seine;92;Commerce
+241;2015;loi 78;COMMUNE D'AMBOISE;Amboise;37;Collectivités locales
+242;2015;loi 78;LA CHAMBRE DE METIERS ET DE L'ARTISANAT DU VAL-D'OISE;Cergy Pontoise;95;Collectivités locales
+243;2015;loi 78;MINISTERE DE L'INTERIEUR;Lognes;77;Police/ justice/ sécurité
+244;2015;loi 78;"PLASTIC OMNIUM AUTO
+EXTERIEUR ";Sainte Julie;1;Commerce
+245;2015;loi 78;BNP PARIBAS;Paris;75;Banques
+246;2015;loi 78;"OGEC DES ECOLES DU BON SAUVEUR
+";Saint Lo;50;Education/culture/sport
+247;2015;loi 78;SOCIETE GENERALE;Paris;75;Banques
+248;2015;loi 78;"CENTRE HOSPITALIER SPECIALISE
+PHILIPPE PINEL D'AMIENS
+";Dury;80;Santé/ social
+249;2015;loi 78;SARL M AND C FORME;Amiens;80;Commerce
+250;2015;loi 78;PSYA;Paris;75;Santé/ social
+251;2015;loi 78;"RECOMMERCE SOLUTIONS
+";Gentilly;94;Commerce
+252;2015;loi 78;"BOULEAUX FRANCE SARL
+";Chambly;60;Commerce
+253;2015;loi 78;"MAIRIE DE GOUVIEUX
+";Gouvieux;60;Collectivités locales
+254;2015;vidéo;STE CIRENO (MAGASIN INCOGNITO 37… LOUHANS);Louhans;44;Commerce
+255;2015;vidéo;STE CIRENO (MAGASIN INCOGNITO 44… LOUHANS);Louhans;44;Commerce
+256;2015;vidéo;DISTRIBUTION CASINO;Montpellier;34;Commerce
+257;2015;vidéo;SOCIETE DU CENTRE CHIRURGICAL AMBROISE PARE DE NEUILLY (92);Neuilly;92;Santé/ social
+258;2015;vidéo;AMAZONIA BORDEAUX CENTRE;Bordeaux;33;Commerce
+259;2015;vidéo;COMMUNE DE CLAMART;Clamart;92;Collectivités locales
+260;2015;vidéo;"ASSOCIATION "" LES MAISONS DE L'ARIA""";Combs la Ville;77;Santé/ social
+261;2015;vidéo;COMMUNE D'ANNEMASSE;Annemasse;74;Collectivités locales
+262;2015;vidéo;KING JOUET ;Strasbourg;67;Commerce
+263;2015;vidéo;"TOYS""R""US ";Strasbourg;67;Commerce
+264;2015;vidéo;BNP PARIBAS REAL ESTATE;Issy les Moulineaux;92;Banques
+265;2015;vidéo;HOTEL IBIS STYLES TOULON CENTRE CONGRES;Toulon;83;Commerce
+266;2015;vidéo;PATHE LE MANS QUINCONCES;Le Mans;72;Commerce
+267;2015;vidéo;"LE MUSEE VERT 
+LE MANS";Le Mans;72;Commerce
+268;2015;vidéo;COMMUNE LE PERREUX-SUR-MARNE;Le Perreux sur Marne;94;Collectivités locales
+269;2015;vidéo;COMMUNE DE MAISON-LAFFITTE ;Maison Laffitte;78;Collectivités locales
+270;2015;vidéo;"ASSOCIATION DE FORMATION ET
+D'ACTION SOCIALE DES ECURIES DE COURSES";Maison Laffitte;78;Education/culture/sport
+271;2015;vidéo;PLANETE PAIN;Saint Vit;25;Commerce
+272;2015;vidéo;HOTEL MERCURE;Reims;51;Commerce
+273;2015;vidéo;COMMUNE DE TOULON;Toulon;83;Collectivités locales
+274;2015;vidéo;SYNDICAT MIXTE PORTS TOULON PROVENCE;Toulon;83;Commerce
+275;2015;vidéo;KCL8 (KEEP COOL);Lyon;69;Commerce
+276;2015;vidéo;HOTEL SOFITEL LYON BELLECOUR/SAS SOFITEL LUXURY HOTELS FRANCE;Lyon;69;Commerce
+277;2015;vidéo;COMMUNE DE MONTARGIS;Montargis;45;Collectivités locales
+278;2015;vidéo;SOCIETE SERVAIR;Roissy Charles de Gaulle;95;Commerce
+279;2015;vidéo;COMMUNE DE FERRIERES EN GATINAIS;Ferrieres en Gatinais;45;Collectivités locales
+280;2015;vidéo;"GIFI MAG 
+";Chambly;60;Commerce
+281;2015;vidéo;GIFI MAG;Chambly;60;Commerce
+282;2015;vidéo;BUFFALO GRILL;Chambly;60;Commerce
+283;2015;vidéo;OGEC PSALLETTE ST VINCENT;Le Mans;72;Education/culture/sport
+284;2015;vidéo;SAS VALMY - RENAISSANCE PARIS LA DEFENSE HOTEL;Paris La Défense;92;Commerce
+285;2015;vidéo;COMMUNE LE CHESNAY;Le Chesnay;78;Collectivités locales
+286;2015;vidéo;COMMUNE DE PITHIVIERS;Pithiviers;45;Collectivités locales
+287;2015;vidéo;HELVETIA COMPAGNIE SUISSE D'ASSURANCES;Courbevoie;92;Assurance
+288;2015;vidéo;TOSHIBA TEC EUROPE;Neuville les Dieppe;76;Commerce
+289;2015;vidéo;CASINO DE DIEPPE;Dieppe;76;Commerce
+290;2015;vidéo;COMMUNE DE BLAGNAC;Blagnac;31;Collectivités locales
+291;2015;vidéo;HOTEL MERCURE;Rennes;35;Commerce
+292;2015;vidéo;MAGASIN ZARA (AIX-EN-PROVENCE);Aix en Provence;13;Commerce
+293;2015;vidéo;GAUMONT MONTPELLIER MULTIPLEXE ;Montpellier;34;Commerce
+294;2015;vidéo;COMMUNE DE TOURS;Tours;37;Collectivités locales
+295;2015;vidéo;AQUARIUM MARE NOSTRUM ;Montpellier;34;Commerce
+296;2015;vidéo;COMMUNE DE CHARTRES;Chartres;28;Collectivités locales
+297;2015;vidéo;SOCIETE 5/5 SECURITE;Chartres;28;Commerce
+298;2015;vidéo;COMMUNE D'ETAMPES;Etampes;91;Collectivités locales
+299;2015;vidéo;LABORATOIRE CLAIRE BILLEY-KIJNER;Vernouillet;78;Santé/ social
+300;2015;vidéo;COMMUNE DE CARPIQUET;Carpiquet;14;Collectivités locales
+301;2015;vidéo;COMMUNE DE RENNES;Rennes;35;Collectivités locales
+302;2015;vidéo;MUSEE DES BEAUX-ARTS DE RENNES ;Rennes;35;Education/culture/sport
+303;2015;vidéo;PATINOIRE MUNICIPALE ;Caen;14;Collectivités locales
+304;2015;vidéo;MUSEE DES BEAUX-ARTS DE CAEN;Caen;14;Collectivités locales
+305;2015;vidéo;COMMUNE DE LACANAU;Lacanau;33;Collectivités locales
+306;2015;vidéo;COMMUNE DE LORIENT;Lorient;56;Collectivités locales
+307;2015;vidéo;COMMUNE DE VANNES ;Vannes;56;Collectivités locales
+308;2015;vidéo;GROUPE BARBA;Frontignan;34;Commerce
+309;2015;vidéo;MUSEE DU FORT DE LA POMPELLE;Reims;51;Collectivités locales
+310;2015;vidéo;COMMUNE DE MEZE ;Meze;34;Collectivités locales
+311;2015;vidéo;COMMUNE D'AGDE ;Agde;34;Collectivités locales
+312;2015;vidéo;COMMUNE DE MARSEILLAN ;Marseillan;34;Collectivités locales
+313;2015;vidéo; CURE GOURMANDE DEVELOPPEMENT ;Agde;34;Commerce
+314;2015;vidéo;LE CESAR BILLARD PALACE;Reims;51;Commerce
+315;2015;vidéo;FONDATION D'ENTREPRISE LOUIS VUITTON;Paris;75;Commerce
+316;2015;vidéo;COMMUNE DE BASSENS;Bassens;33;Collectivités locales
+317;2015;vidéo;MEILLEURCONTACT@33;Libourne;33;Commerce
+318;2015;vidéo;MUSEE DES ARMES;Tulle;19;Education/culture/sport
+319;2015;vidéo;COMMUNE DE COURTENAY;Courtenay;45;Collectivités locales
+320;2015;vidéo;MUSEE DES ARMES;Tulle;19;Education/culture/sport
+321;2015;vidéo;COMMUNE DE COURTENAY;Courtenay;45;Collectivités locales
+322;2015;vidéo;MAISON D'ARRET DE DOUAI;Douai;62;Police/ justice/ sécurité
+323;2015;vidéo;GROUPE HELICE;Pantin;93;Commerce
+324;2015;vidéo;PALAVAL - NOVOTEL VALENCE SUD;Valence;26;Commerce
+325;2015;vidéo;SMECTOM DU PLATEAU DE LANNEMEZAN, DES NESTES ET DES COTEAUX;Capvern;65;Collectivités locales
+326;2015;vidéo;COMMUNE DE TARBES;Tarbes;65;Collectivités locales
+327;2015;vidéo;COMMUNE DE LOUHANS;Louhans;71;Collectivités locales
+328;2015;vidéo;GROUPE HELICE;Pantin;93;Télécommunications
+329;2015;vidéo;PALAVAL - NOVOTEL VALENCE SUD;Valence;26;Commerce
+330;2015;vidéo;SMECTOM DU PLATEAU DE LANNEMEZAN, DES NESTES ET DES COTEAUX;Capvern;65;Santé/ social
+331;2015;vidéo;COMMUNE DE TARBES;Tarbes;65;Collectivités locales
+332;2015;vidéo;COMMUNE DE LOUHANS;Louhans;71;Collectivités locales
+333;2015;vidéo;OGEC DES ECOLES DU BON SAUVEUR;Saint Lô;50;Education/culture/sport
+334;2015;vidéo;"RESIDENCE ""LES JARDINS DE LA LOIRE""";Bonny sur Loire;45;Santé/ social
+335;2015;vidéo;COMMUNE DE SARTROUVILLE;Sartrouville;78;Collectivités locales
+336;2015;vidéo;MAIRIE DE SAINT MAUR DES FOSSES;Saint Maur des fossés;94;Collectivités locales
+337;2015;vidéo;MAGASIN GALERIES LAFAYETTE BORDEAUX;Bordeaux;33;Commerce
+338;2015;vidéo;GRAND HOTEL DE BORDEAUX;Bordeaux;33;Immobilier
+339;2015;vidéo;"SPORT 33 - LE METROPOLE 
+";Bordeaux;33;Commerce
+340;2015;vidéo;ENSA 2I ;Paris;75;Education/culture/sport
+341;2015;contrôle en ligne;2L MULTIMEDIA;Paris;75;Commerce
+342;2015;contrôle en ligne;"MARMITELOVE.COM
+GAUCHE-RENCONTRE.COM";Paris;75;Commerce
+343;2015;contrôle en ligne;MEKTOUBE.FR;Paris;75;Commerce
+344;2015;contrôle en ligne;PARIS.FR;Paris;75;Collectivités locales
+345;2015;contrôle en ligne;JOURNALDUGEEK.COM ;Paris;75;Commerce
+346;2015;contrôle en ligne;METRONEWS.FR;Paris;75;Commerce
+347;2015;contrôle en ligne;COMPRENDRECHOISIR.COM;Paris;75;Commerce
+348;2015;contrôle en ligne;COMPRENDRECHOISIR.COM;Paris;75;Commerce
+349;2015;contrôle en ligne;LADEPECHE.FR;Paris;75;Commerce
+350;2015;contrôle en ligne;CHALLENGES.FR;Paris;75;Commerce
+351;2015;contrôle en ligne;VILLE-CRETEIL.FR;Paris;75;Collectivités locales
+352;2015;contrôle en ligne;WWW.SERVICES.VILLE-NEVERS.FR ;Paris;75;Collectivités locales
+353;2015;contrôle en ligne;SIDA-INFO-SERVICE.ORG;Paris;75;Santé/ social
+354;2015;contrôle en ligne;GHAZLI.COM;Paris;75;Santé/ social
+355;2015;contrôle en ligne;GHAZLI.COM;Paris;75;Santé/ social
+356;2015;contrôle en ligne;GHAZLI.COM;Paris;75;Santé/ social
+357;2015;contrôle en ligne;WWW.REDON.FR;Paris;75;Collectivités locales
+358;2015;contrôle en ligne;MARSEILLESERVICES.FR;Paris;75;Collectivités locales
+359;2015;contrôle en ligne;METZ.FR;Paris;75;Collectivités locales
+360;2015;contrôle en ligne;BORDEAUX.FR;Paris;75;Collectivités locales
+361;2015;contrôle en ligne;VILLECOURBEVOIE.FR;Paris;75;Collectivités locales
+362;2015;contrôle en ligne;VILLEDELENS.FR;Paris;75;Collectivités locales
+363;2015;contrôle en ligne;NEUILLYSURSEINE.FR;Paris;75;Collectivités locales
+364;2015;contrôle en ligne;MAIRIE-DEAUVILLE.FR;Paris;75;Collectivités locales
+365;2015;contrôle en ligne;CETELEM.FR;Paris;75;Banques
+366;2015;contrôle en ligne;CETELEM.FR;Paris;75;Banques
+367;2015;contrôle en ligne;BREST-METROPOLE-OCEANE.FR;Paris;75;Collectivités locales
+368;2015;contrôle en ligne;NANTES.FR;Paris;75;Collectivités locales
+369;2015;contrôle en ligne;VILLE-EVIAN.FR;Paris;75;Collectivités locales
+370;2015;contrôle en ligne;COFINOGA.FR;Paris;75;Banques
+371;2015;contrôle en ligne;VITRY94.FR;Paris;75;Collectivités locales
+372;2015;contrôle en ligne;SOFINCO.FR;Paris;75;Banques
+373;2015;contrôle en ligne;TOURS.FR;Paris;75;Collectivités locales
+374;2015;contrôle en ligne;TRAITEMENT IP DU 11 FÉVRIER 2015;Paris;75;Commerce
+375;2015;contrôle en ligne;VANVES.FR;Paris;75;Collectivités locales
+376;2015;contrôle en ligne;BANQUE-CASINO.FR;Paris;75;Commerce
+377;2015;contrôle en ligne;CARREFOUR-BANQUE.FR;Paris;75;Commerce
+378;2015;contrôle en ligne;ERDF.FR;Paris;75;Commerce
+379;2015;contrôle en ligne;TRAITEMENT IP DU 18 FÉVRIER 2015;Paris;75;Commerce
+380;2015;contrôle en ligne;TRAITEMENT IP DU 18 FÉVRIER 2015;Paris;75;Commerce
+381;2015;contrôle en ligne;OFFICIERSDEPORT-CGT.FR;Paris;75;Santé/ social
+382;2015;contrôle en ligne;VERSAILLES.FR;Paris;75;Collectivités locales
+383;2015;contrôle en ligne;EXPENLI.COM;Paris;75;Commerce
+384;2015;contrôle en ligne;INSPI.FR;Paris;75;Education/culture/sport
+385;2015;contrôle en ligne;EPITECH.EU;Paris;75;Education/culture/sport
+386;2015;contrôle en ligne;GEMONEYBANK.FR;Paris;75;Commerce
+387;2015;contrôle en ligne;COFIDIS.FR;Paris;75;Commerce
+388;2015;contrôle en ligne;CEVU.U-CERGY.FR;Paris;75;Education/culture/sport
+389;2015;contrôle en ligne;ARCAULNAY.FR;Paris;75;Education/culture/sport
+390;2015;contrôle en ligne;PHOTO.AUCHAN.FR;Paris;75;Commerce
+391;2015;contrôle en ligne;PHOTO.AUCHAN.FR;Paris;75;Commerce
+392;2015;contrôle en ligne;CENTRALEPNEUS.FR;Paris;75;Commerce
+393;2015;contrôle en ligne;ALLOPNEUS.COM;Paris;75;Commerce
+394;2015;contrôle en ligne;PHOTOSERVICE.COM;Paris;75;Commerce
+395;2015;contrôle en ligne;PASTEUR-LILLE.FR;Paris;75;Santé/ social
+396;2015;contrôle en ligne;CNCN.FR;Paris;75;Santé/ social
+397;2015;contrôle en ligne;TEST-CLINIQUE.FR;Paris;75;Santé/ social
+398;2015;contrôle en ligne;EUROSAFE.FR;Paris;75;Santé/ social
+399;2015;contrôle en ligne;INTERTEK-ETUDESCLINIQUES.COM;Paris;75;Santé/ social
+400;2015;contrôle en ligne; PHOTOBOX.FR;Paris;75;Commerce
+401;2015;contrôle en ligne;MYPIX.COM;Paris;75;Commerce
+402;2015;contrôle en ligne;PAIEMENT-CFR.COM;Paris;75;Commerce
+403;2015;contrôle en ligne;PHOTOWEB.FR;Paris;75;Commerce
+404;2015;contrôle en ligne;MAIRIE DE PARIS;Paris;75;Santé/ social
+405;2015;contrôle en ligne;FORTUNEO.FR;Paris;75;Banques
+406;2015;contrôle en ligne;NEUFMOIS.FR;Paris;75;Télécommunications
+407;2015;contrôle en ligne;PLANET.VERTBAUDET.COM;Paris;75;Télécommunications
+408;2015;contrôle en ligne;PLANET.VERTBAUDET.COM;Paris;75;Télécommunications
+409;2015;contrôle en ligne;MAMAN.FR;Paris;75;Télécommunications
+410;2015;contrôle en ligne;MAMAN.FR;Paris;75;Télécommunications
+411;2015;contrôle en ligne;MAGICMAMAN.COM;Paris;75;Télécommunications
+412;2015;contrôle en ligne;MAGICMAMAN.COM;Paris;75;Télécommunications
+413;2015;contrôle en ligne;KELBILLET.COM;Paris;75;Transport
+414;2015;contrôle en ligne;KELBILLET.COM;Paris;75;Transport
+415;2015;contrôle en ligne;MONALBUMPHOTO.FR;Paris;75;Télécommunications
+416;2015;contrôle en ligne;BOULANGER.FR;Paris;75;Télécommunications
+417;2015;contrôle en ligne;COVOITURAGE.FR;Paris;75;Commerce
+418;2015;contrôle en ligne;"FORMALITES-CARTEGRISE.FR
+(CARPE DIEM SAS)";Paris;75;Commerce
+419;2015;contrôle en ligne;"FORMALITES-CARTEGRISE.FR
+(CARPE DIEM SAS)";Paris;75;Commerce
+420;2015;contrôle en ligne;VOTRE-CARTE-GRISE.COM;Paris;75;Commerce
+421;2015;contrôle en ligne;VOTRE-CARTE-GRISE.COM;Paris;75;Commerce
+422;2015;contrôle en ligne;"RICARD.COM
+(RICARD S.A)";Paris;75;Commerce
+423;2015;contrôle en ligne;"RICARD.COM
+(RICARD S.A)";Paris;75;Commerce
+424;2015;contrôle en ligne;CARTEGRISENATIONALE.FR;Paris;75;Transport
+425;2015;contrôle en ligne;COURSES.MONOPRIX.FR;Paris;75;Commerce
+426;2015;contrôle en ligne;COURSES.CARREFOUR.FR;Paris;75;Commerce
+427;2015;contrôle en ligne;"SUNLAND.FR
+ (SARL JMB)";Paris;75;Commerce
+428;2015;contrôle en ligne;"AUBERT.COM
+(AUBERT FRANCE)";Paris;75;Commerce
+429;2015;contrôle en ligne;RÉPUBLICAINS.FR;Paris;75;Télécommunications
+430;2015;contrôle en ligne;PARTI-SOCIALISTE.FR;Paris;75;Télécommunications
+431;2015;contrôle en ligne;PARTI-SOCIALISTE.FR;Paris;75;Télécommunications
+432;2015;contrôle en ligne;YATEDO.FR;Paris;75;Commerce
+433;2015;contrôle en ligne;MARIANNE.NET;Paris;75;Commerce
+434;2015;contrôle en ligne;COURSEU.COM;Paris;75;Commerce
+435;2015;contrôle en ligne;STILLINCONTACT.COM;Paris;75;Education/culture/sport
+436;2015;contrôle en ligne;INTRUM.COM;Paris;75;Banques
+437;2015;contrôle en ligne;ESPACE-LAVERIE.NET;Paris;75;Commerce
+438;2015;contrôle en ligne;FFTRI.COM;Paris;75;Education/culture/sport
+439;2015;contrôle en ligne;FFN.EXTRANAT.FR;Paris;75;Education/culture/sport
+440;2015;contrôle en ligne;CHATEAUVERSAILLES-SPECTACLES.FR;Paris;75;Commerce
+441;2015;contrôle en ligne;BILLETREDUC.COM;Paris;75;Commerce
+442;2015;contrôle en ligne;EELV.FR;Paris;75;Télécommunications
+443;2015;contrôle en ligne;ADHESION-FN.COM;Paris;75;Télécommunications
+444;2015;contrôle en ligne;ADHESION-FN.COM;Paris;75;Télécommunications
+445;2015;contrôle en ligne;COACHCLUB.COM;Paris;75;Commerce
+446;2015;contrôle en ligne;PASTEL.DIPLOMATIE.GOUV.FR;Paris;75;Police/ justice/ sécurité
+447;2015;contrôle en ligne;VOISINSVIGILANTS.ORG;Paris;75;Commerce
+448;2015;contrôle en ligne;FITNEXT.COM;Paris;75;Commerce
+449;2015;contrôle en ligne;SCR-RECOUVREMENT.COM;Paris;75;Commerce
+450;2015;contrôle en ligne;BIOMOUV.COM;Paris;75;Commerce
+451;2015;contrôle en ligne;ACTUGAMING.NET;Paris;75;Commerce
+452;2015;contrôle en ligne;MAISONS-KERBEA.FR;Paris;75;Commerce
+453;2015;contrôle en ligne;MAISONS-KERBEA.FR;Paris;75;Commerce
+454;2015;contrôle en ligne;MASANTENET.COM;Paris;75;Santé/ social
+455;2015;contrôle en ligne;PARTI-UDI.FR;Paris;75;Télécommunications
+456;2015;contrôle en ligne;BEXLEY.FR;Paris;75;Commerce
+457;2015;contrôle en ligne;VOISINSVIGILANTS.ORG;Paris;75;Commerce
+458;2015;contrôle en ligne;PCF.FR;Paris;75;Télécommunications
+459;2015;contrôle en ligne;PIANEOJOBS.COM;Paris;75;Commerce
+460;2015;contrôle en ligne;CHEVALANNONCE.COM;Paris;75;Commerce
+461;2015;contrôle en ligne;MAISONSDUMONDE.FR;Paris;75;Commerce
+462;2015;contrôle en ligne;STARTPEOPLE.FR;Paris;75;Commerce
+463;2015;contrôle en ligne;PASSEPORTSANTE.NET;Paris;75;Santé/ social
+464;2015;contrôle en ligne;DÉCATHLON.FR;Paris;75;Commerce
+465;2015;contrôle en ligne;CHAINEO.FR;Paris;75;Télécommunications
+466;2015;contrôle en ligne;VENTE-UNIQUE.COM;Paris;75;Commerce
+467;2015;contrôle en ligne;ETAM.COM;Paris;75;Commerce
+468;2015;contrôle en ligne;ROULAGEPISTE.FR;Paris;75;Commerce
+469;2015;contrôle en ligne;FACEBOOK.COM;Paris;75;Télécommunications
+470;2015;contrôle en ligne;FACEBOOK.COM;Paris;75;Télécommunications
+471;2015;contrôle en ligne;IKOULA.COM;Paris;75;Télécommunications
+472;2015;contrôle en ligne;NUXIT.COM;Paris;75;Télécommunications
+473;2015;contrôle en ligne;MATELSOM.COM;Paris;75;Commerce
+474;2015;contrôle en ligne;MATELPRO.COM;Paris;75;Commerce
+475;2015;contrôle en ligne;DEVRED.COM;Paris;75;Commerce
+476;2015;contrôle en ligne;WWW.REUNIONSDECONSOMMATEURS.COM;Paris;75;Télécommunications
+477;2015;contrôle en ligne;JULES.COM;Paris;75;Commerce
+478;2015;contrôle en ligne;JULES.COM;Paris;75;Commerce
+479;2015;contrôle en ligne;BRICE.FR;Paris;75;Commerce
+480;2015;contrôle en ligne;LAUTOENTREPRENEUR.FR;Paris;75;Commerce
+481;2015;contrôle en ligne;CORSICADIASPORA.COM;Paris;75;Commerce
+482;2015;contrôle en ligne;PARLONSJARDIN.FR;Paris;75;Commerce
+483;2015;contrôle en ligne;NOCIBE.FR;Paris;75;Commerce
+484;2015;contrôle en ligne;MIDAS.FR;Paris;75;Commerce
+485;2015;contrôle en ligne;NORAUTO.FR;Paris;75;Commerce
+486;2015;contrôle en ligne;CAMAIEU.FR;Paris;75;Commerce
+487;2015;contrôle en ligne;MEDECINDIRECT.FR;Paris;75;Santé/ social
+488;2015;contrôle en ligne;LE-RSI.FR;Paris;75;Santé/ social
+489;2015;contrôle en ligne;OOSHOP.COM;Paris;75;Commerce
+490;2015;contrôle en ligne;FRANDROID.COM;Paris;75;Commerce
+491;2015;contrôle en ligne;OVH.COM;Paris;75;Télécommunications
+492;2015;contrôle en ligne;GANDI.NET;Paris;75;Télécommunications
+493;2015;contrôle en ligne;83140INFO.COM;Paris;75;Collectivités locales
+494;2015;contrôle en ligne;COMPTOIRDESCOTONNIERS.COM;Paris;75;Commerce
+495;2015;contrôle en ligne;ONLINE.NET;Paris;75;Télécommunications

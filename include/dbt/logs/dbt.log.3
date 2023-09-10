@@ -1,0 +1,18 @@
+[0m13:49:25.380924 [debug] [MainThread]: running dbt with arguments {'use_experimental_parser': 'False', 'log_cache_events': 'False', 'log_path': '/usr/local/airflow/include/dbt/logs', 'partial_parse': 'True', 'no_print': 'None', 'fail_fast': 'False', 'write_json': 'True', 'debug': 'False', 'warn_error': 'None', 'version_check': 'True', 'use_colors': 'True', 'log_format': 'default', 'warn_error_options': 'WarnErrorOptions(include=[], exclude=[])', 'quiet': 'False', 'profiles_dir': '/usr/local/airflow/include/dbt', 'indirect_selection': 'eager', 'static_parser': 'True', 'target_path': 'None', 'invocation_command': 'dbt ls --output json --profiles-dir /usr/local/airflow/include/dbt --profile dbt_cnil --target dev', 'introspect': 'True', 'printer_width': '80', 'send_anonymous_usage_stats': 'True', 'cache_selected_only': 'False'}
+[0m13:49:25.710827 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'project_id', 'label': '66410fbc-b7b6-4585-a2d6-905e484a06cb', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0xffff8608f350>]}
+[0m13:49:25.717511 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'adapter_info', 'label': '66410fbc-b7b6-4585-a2d6-905e484a06cb', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0xffff86079b10>]}
+[0m13:49:25.718400 [info ] [MainThread]: Registered adapter: bigquery=1.6.3
+[0m13:49:25.728380 [debug] [MainThread]: checksum: 75d6d5dbc5d871b179a8ff410cc90d15f51760ecbff1cc37d50cb65a0e4e1fe8, vars: {}, profile: dbt_cnil, target: dev, version: 1.6.1
+[0m13:49:25.835002 [debug] [MainThread]: Partial parsing enabled: 0 files deleted, 0 files added, 0 files changed.
+[0m13:49:25.835841 [debug] [MainThread]: Partial parsing enabled, no changes found, skipping parsing
+[0m13:49:25.837522 [warn ] [MainThread]: [[33mWARNING[0m]: Configuration paths exist in your dbt_project.yml file which do not apply to any resources.
+There are 2 unused configuration paths:
+- models.dbt_cnil.violations.final
+- models.dbt_cnil.violations.intermediate
+[0m13:49:25.843563 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'load_project', 'label': '66410fbc-b7b6-4585-a2d6-905e484a06cb', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0xffff86008310>]}
+[0m13:49:25.878098 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'resource_counts', 'label': '66410fbc-b7b6-4585-a2d6-905e484a06cb', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0xffff85e32290>]}
+[0m13:49:25.880434 [info ] [MainThread]: Found 40 models, 27 sources, 0 exposures, 0 metrics, 504 macros, 0 groups, 0 semantic models
+[0m13:49:25.881318 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'runnable_timing', 'label': '66410fbc-b7b6-4585-a2d6-905e484a06cb', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0xffff860b7950>]}
+[0m13:49:25.884726 [debug] [MainThread]: Command `dbt ls` succeeded at 13:49:25.884607 after 0.52 seconds
+[0m13:49:25.885379 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0xffff87d75e50>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0xffff87b5e850>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0xffff8c366450>]}
+[0m13:49:25.885898 [debug] [MainThread]: Flushing usage events

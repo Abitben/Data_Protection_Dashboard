@@ -1,0 +1,15 @@
+sources:
+- database: cnil-392113
+  name: controles
+  schema: controles_realises_par_la_cnil
+  tables:
+  - name: open_data_controles_2020_vd_20210603
+  - name: open_data_controles_cnil_2022_v20230621
+  - name: opencnil_nombre_controles_depuis_1990_maj_juin_2023
+  - name: Liste_des_controles_realises_par_la_CNIL_en_2017
+  - name: Liste_des_controles_realises_par_la_CNIL_en_2016
+  - name: open_data_controles_2021_v20220921
+  - name: Liste_des_controles_realises_par_la_CNIL_en_2014
+  - name: opencnil_liste_controles_2018
+  - name: Liste_des_controles_realises_par_la_CNIL_en_2015
+  - name: opencnil_liste_controles_2019
