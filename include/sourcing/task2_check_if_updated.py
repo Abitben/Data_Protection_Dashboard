@@ -1,7 +1,5 @@
 
-
-
-def check_if_updated():
+def check_if_updated(**kwargs):
     from include.sourcing.classes.get_cnil_indexes import GetCnilIndexes
     from include.sourcing.classes.check_if_updated import CheckUpdateCnil
     from include.sourcing.classes.get_cnil_tables_xlsx import UpdateTableCSV
@@ -36,5 +34,19 @@ def check_if_updated():
         tables.append(table_sanctions_eu)
         links.append(f'datasets/{dataset_sanctions_eu}/{table_sanctions_eu}')
 
-    print(datasets, tables, links)
-    return datasets, tables, links
+    all_datasets = []
+    for index, dataset in enumerate(datasets):
+        dataset = datasets[index]
+        link = links[index]
+        table = tables[index]
+        table_to_update = {}
+        table_to_update = {
+            'index': index,
+            'dataset': dataset,
+            'table': table,
+            'link': link
+        }
+        all_datasets.append(table_to_update)
+    
+    print(all_datasets)
+    return all_datasets

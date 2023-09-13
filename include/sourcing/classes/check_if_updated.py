@@ -11,12 +11,8 @@ from selenium.webdriver.support.wait import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.desired_capabilities import DesiredCapabilities
 from selenium.webdriver.firefox.service import Service as FirefoxService
-from webdriver_manager.firefox import GeckoDriverManager
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.firefox.options import Options
-from selenium.webdriver.chrome.service import Service as ChromeService
-from webdriver_manager.chrome import ChromeDriverManager
-from xvfbwrapper import Xvfb
 import time
 import os
 
@@ -111,14 +107,16 @@ class CheckUpdateCnil:
 
     def get_new_sanctions_eu(self):
         self.get_sanctions_eu_bq()
-        chromeOptions = webdriver.ChromeOptions()
-        driver_path = '/usr/local/bin/chromedriver'
-        chromeOptions.add_argument('--headless')
-        chromeOptions.add_argument('--disable-gpu')
-        chromeOptions.add_argument('--no-sandbox')
-
-    
-        driver = webdriver.Chrome(service=ChromeService(ChromeDriverManager().install()), chrome_options=chromeOptions)
+        options = Options()
+        options.add_argument("--disable-dev-shm-using")
+        options.add_argument("--disable-extensions")
+        options.add_argument("--disable-gpu")
+        
+        # Créez une nouvelle instance de navigateur
+        driver = webdriver.Remote(
+            command_executor='http://selenium-hub:4444/wd/hub',
+            options=options
+        )
         url = "https://www.enforcementtracker.com/"
         driver.get(url)
         driver.implicitly_wait(10)
@@ -187,6 +185,7 @@ class CheckUpdateCnil:
                 # Wait for the page to load, if needed
                 # Add any necessary sleep or wait statements here if the next page load takes some time
         driver.close()
+        driver.quit()
         self.df_sanc_eu_updt = pd.DataFrame(data=all_content, columns=columns)
         return self.df_sanc_eu_updt
 
