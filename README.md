@@ -4,7 +4,7 @@
 
 Hi ! When I was a IT jurist in a law firm, I wish I had a tool that can enable a global vision on data protection in France and Europe. Back then, if I could anticipate the decisions of the supervisory authorities, gain insight into the legal basis for fines, the amount of the fines, where the inspections where located, in which countries my conformity is the most at risk, I might have prioritize my work for my client in a different manner.
 
-After completing my data analyst training, I decided to create this tool and dashboard.[link here]( 
+After completing my data analyst training, I decided to create this tool and dashboard : [link here]( 
 https://lookerstudio.google.com/u/0/reporting/d08ba2d8-551d-4e1d-a194-4d2029af13b4/page/p_jo0423kk8c)
 
 This is my first solo project, and it marks my initial foray into various technologies, such as Docker and Astronomer's Airflow, which are useful for integrating dbt lineage within Airflow.
