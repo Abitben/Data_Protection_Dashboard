@@ -11,12 +11,12 @@ This is my first solo project, and it marks my initial foray into various techno
 ## Languages and tools used for this project
 
 For orchestration :
-- Astronomer CLI (Airflow) with Docker 
+- [Astronomer CLI (Airflow) with Docker](https://docs.astronomer.io/astro/cli/overview) 
 
 For sourcing and ingestion :
 - Python
 - Pandas
-- Selenium with Selenium Grid
+- Selenium with Selenium Grid (Warning : The Selenium Docker Image was deployed on a MacOs M1 system, it might not work on other system)
 
 For transforming :
 - dbt
