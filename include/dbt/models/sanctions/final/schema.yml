@@ -1,7 +1,7 @@
 version: 2
 
 models:
-  - name: sanctions_stats
+  - name: sanctions_stats_all
     schema: sanctions
     columns:
       - name: annee

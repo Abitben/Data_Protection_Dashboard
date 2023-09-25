@@ -34,6 +34,7 @@ class CheckUpdateCnil:
 
         client = bigquery.Client.from_service_account_json(
             "/usr/local/airflow/include/gcp/cnil-392113-c62bf34df38e.json")
+        print()
         dataset_list = list(client.list_datasets())
         dataset_ids = []
         table_ids = []
@@ -184,7 +185,6 @@ class CheckUpdateCnil:
                 next_page.click()
                 # Wait for the page to load, if needed
                 # Add any necessary sleep or wait statements here if the next page load takes some time
-        driver.close()
         driver.quit()
         self.df_sanc_eu_updt = pd.DataFrame(data=all_content, columns=columns)
         return self.df_sanc_eu_updt
@@ -227,6 +227,8 @@ class CheckUpdateCnil:
         table = 'sanctions_all_eu'
         self.dataset_sanc_eu = dataset
         self.table_sanc_eu = table
+        os.chdir('include')
+        os.chdir('sourcing')
         os.makedirs('datasets/sanctions_eu', exist_ok=True)
         self.concat_df_sanc_eu.to_excel('datasets/sanctions_eu/sanctions_all_eu', engine='openpyxl')
         print('CSV file saved successfully')

@@ -7,10 +7,13 @@ import pandas_gbq
 
 class UploadToBq:
     
-    def __init__(self, dataset, table) -> None:
-        self.credentials = service_account.Credentials.from_service_account_file('/usr/local/airflow/include/gcp/cnil-392113-c62bf34df38e.json')
+    def __init__(self, dataset, table):
+        print('---------------------UPLOAD TO BQ---------------------')
         self.project_id = 'cnil-392113'
-        self.client = bigquery.Client(credentials= self.credentials,project=self.project_id)
+        credentials = service_account.Credentials.from_service_account_file('/usr/local/airflow/include/gcp/cnil-392113-c62bf34df38e.json')
+        self.credentials = credentials
+        client = bigquery.Client(credentials= self.credentials, project= self.project_id)
+        self.client = client
         self.dataset = dataset
         self.table = table
         self.df = pd.read_csv(f'datasets/{dataset}/{table}', sep=';')
@@ -36,5 +39,5 @@ class UploadToBq:
 
         table_bq = f'{self.dataset}.{self.table}'
         print(self.table, "---", self.df.shape)
-        pandas_gbq.to_gbq(self.df, table_bq, project_id=self.project_id, if_exists='replace')
+        pandas_gbq.to_gbq(self.df, table_bq, project_id=self.project_id, if_exists='replace', credentials = self.credentials)
         print("Loaded {} rows into {}:{}.".format(self.df.shape[0], self.dataset, self.table))
